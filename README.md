@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @leesdonson
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m working on my personal projects
+- 👋 Hi, my name is Lee Donson; @leesdonson and I am a tech enthusiast.
+- 👀 I’m interested in full stack web development and
+- 🌱 I’m currently learning the MERN stack.
+- 💞️ I’m working on my personal projects.
 
 
 <!---
